@@ -1,1 +1,14 @@
+title: Byron Saltos
+author: Byron Saltos
+email: bantoniosaltos@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Página personal.
+# social links
+twitter_username: https://twitter.com/BakuzByron
+github_username:  https://github.com/bakuz
+pinterest_username:
+facebook_username:
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+
 theme: jekyll-theme-dinky
