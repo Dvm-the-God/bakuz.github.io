@@ -43,3 +43,11 @@ share-links-active:
   facebook: true
   google: false
 linkedin: false
+
+# Plugins
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
