@@ -1,17 +1,17 @@
 title: Sitio Web Personal
 author: Byron Saltos
-name: Byron Saltos
+#name: Byron Saltos
 #email: bantoniosaltos@gmail.com
-description: Sitio Web Personal
-url: https://bakuz.github.io
+#description: Sitio Web Personal
+#url: https://bakuz.github.io
 
-show_excerpts: false # set to false to remove excerpts on the homepage
+#show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: jekyll-theme-dinky
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: aboutme.md
   Blog: /blog
 
 # Image to show in the navigation bar - image must be a square (width = height)
